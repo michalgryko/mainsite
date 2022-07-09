@@ -113,6 +113,10 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+		br{
+			line-height: 1px;
+		}
+
 /* Type */
 
 	body, input, select, textarea {
@@ -235,6 +239,8 @@ input, select, textarea {
 		}
 
 	}
+
+
 
 	@media screen and (max-width: 736px) {
 
